@@ -1,1 +1,1 @@
-console.log("wah")
+console.log("wah");
